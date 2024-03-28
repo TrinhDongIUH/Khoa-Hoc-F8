@@ -1,0 +1,11 @@
+body {
+    margin: auto;
+}
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(0, rgba(45, 104, 126, 0.542), rgba(30, 137, 51, 0.323)),
+    url(https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcSPwqlgRgc73Sc2CXQ5X2zD0NAvyQ4qJiJQCYL44_k9KdljjypQdmSivPqMgFJgsyHeeDdw-qyr2a2l1kg);
+    background-size: 50%;
+}

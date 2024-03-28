@@ -1,0 +1,17 @@
+:root { /*root hay còn gọi là lớp giả(toàn cục)*/
+    --text-color:red; /*đặt biến variable để giúp tiện lợi khi sửa đổi 1 cách dễ dàng, 
+                          ko bị mất thời gian để chỉnh sửa từng cái thẻ đó*/
+}
+
+h1 {
+    --my-color:green;
+    color: var(--my-color);
+}
+
+h2 {
+    color: var(--text-color);
+}
+
+h3 {
+    color: var(--text-color);
+}

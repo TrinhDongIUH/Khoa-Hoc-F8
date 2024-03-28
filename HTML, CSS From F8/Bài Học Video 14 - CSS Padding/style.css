@@ -1,0 +1,18 @@
+.box {
+    width: 60px;
+    height: 60px;
+    background: #ccc;
+    padding: 32px;
+}
+
+.box1 {
+    background-color: #333;
+}
+
+.box2 {
+    background-color: orange;
+}
+
+.box3 {
+    background-color: firebrick;
+}
